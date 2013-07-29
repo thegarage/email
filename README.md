@@ -1,4 +1,9 @@
 email
 =====
 
-MailChimp Email Template
+MailChimp Responsive Email Template
+
+### Changelog
+
+#### v0.1 (July 29, 2013)
+- Init. design
