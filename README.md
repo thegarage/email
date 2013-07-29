@@ -1,0 +1,4 @@
+email
+=====
+
+MailChimp Email Template
